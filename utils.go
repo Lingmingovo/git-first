@@ -9,3 +9,8 @@ func Add(a, b int) int {
 func Multiply(a, b float64) float64 {
 	return a * b
 }
+
+// Sub 返回两个整数相减的结果
+func Sub(a, b int) int {
+	return a - b
+}
