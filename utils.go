@@ -4,3 +4,8 @@ package main
 func Add(a, b int) int {
 	return a + b
 }
+
+//Multiply 返回两数的相乘结果
+func Multiply(a, b float64) float64 {
+	return a * b
+}
